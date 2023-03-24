@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 84b6e72b34a404f4286220214287f9f8, type: 3}
+  m_Name: JacketConfig
+  m_EditorClassIdentifier: 
+  _itemType: 3
+  _icon: {fileID: 21300000, guid: e5ce93ea79019774083d205f29771c2a, type: 3}
+  _name: Top Kurtka
+  _purchaseButtonPricePairs:
+  - PurchaseButton: {fileID: 11400000, guid: 53c6ee4ddca44be43aee6f90f59908f5, type: 2}
+    Price: 3
+  _hour: 0
+  _min: 0
+  _sec: 15

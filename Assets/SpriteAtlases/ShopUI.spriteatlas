@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: ShopUI
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: daccb853102f35047a4f16a8b1e16b80, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: d1bac693c6f9d8641b1362795be0f48a, type: 3}
+  - {fileID: 21300000, guid: b73784b330a36b5418f2decd8dc56aa5, type: 3}
+  - {fileID: 21300000, guid: e12a898a1043bf54696e58059ebfcde4, type: 3}
+  - {fileID: 21300000, guid: e5ce93ea79019774083d205f29771c2a, type: 3}
+  - {fileID: 21300000, guid: 3e348f5d40653cd4b8b54076bcfc5240, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - witch-hat
+  - boot
+  - dollar
+  - jacket
+  - gem
+  m_RenderDataMap: {}
+  m_Tag: ShopUI
+  m_IsVariant: 0
